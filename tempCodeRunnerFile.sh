@@ -1,1 +1,1 @@
-wget -r -A.html https://langchain.readthedocs.io/en/latest/
+python3 ingest.py
